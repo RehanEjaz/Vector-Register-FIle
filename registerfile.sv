@@ -1,14 +1,14 @@
 ///////////////////////////////////////////////////////////////////////////////
 //
-// Project Name:  Hydra 
-// Module Name:   vrf
+// Project Name:  eGPU
+// Module Name:   registerfile
 // Designer:      Rehan Ejaz
 // Description:   Fully parametrized vector register file. Multiple read ports
 //                and write ports (all individual single-wide ports). Number
 //                of register and datapath width is also parameterized. 
 ///////////////////////////////////////////////////////////////////////////////
 
-module vrf 
+module registerfile 
 #(
     parameter NUM_WR_PORTS = 8,              //Number of Write ports
     parameter NUM_RD_PORTS = 8,              //Number of Read  ports

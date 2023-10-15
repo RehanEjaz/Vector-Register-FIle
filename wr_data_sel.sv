@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////
 //
-// Project Name: 
+// Project Name: eGPU
 // Module Name:   wr_data_sel
 // Designer:      Rehan Ejaz
 // Description:   Select write data and write strobe from multiple write 
